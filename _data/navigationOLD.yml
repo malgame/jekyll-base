@@ -1,12 +1,12 @@
-- title: Home
+- title: Start
   url: "/"
   side: left
 
-- title: About
+- title: Getting Started
   url: "/getting-started/"
   side: left
 
-- title: "Services"
+- title: "Templates"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Projects"
+- title: "Header Styles"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Support
+- title: Documentation
   url: "/documentation/"
   side: left
   dropdown:
